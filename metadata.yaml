@@ -1,5 +1,5 @@
 _repo: Cartoons-from-Puck_59604
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Bunner, H. C. (Henry Cuyler)
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '6156'
     url: http://www.gutenberg.org/2009/agents/6156
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+covers:
+- cover_type: archival
+  image_path: 59604-h/images/cover.jpg
 creator:
   author:
     agent_name: Keppler, Joseph
     gutenberg_agent_id: '50534'
     url: http://www.gutenberg.org/2009/agents/50534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59604#Cartoons-from-Puck
 gutenberg_issued: '2019-05-25'
 gutenberg_type: Text
 identifiers:
