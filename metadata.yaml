@@ -1,0 +1,29 @@
+_repo: Cartoons-from-Puck_59604
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: 1855
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+creator:
+  author:
+    agent_name: Keppler, Joseph
+    gutenberg_agent_id: '50534'
+    url: http://www.gutenberg.org/2009/agents/50534
+description: ''
+gutenberg_issued: '2019-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cartoons from Puck
+url: http://www.gutenberg.org/ebooks/59604
